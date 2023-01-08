@@ -1,0 +1,5 @@
+c4 d5
+cxd5 Nf6
+e4 Nxd5
+exd5 0-0
+

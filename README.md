@@ -1,1 +1,1 @@
-# chessInProlog
+## A prolog program to read plays of chess and print the board of those plays
